@@ -12,4 +12,5 @@ Select the same availability zone as one of the MSK brokers for reduced latency 
 Copy the security group of an ec2 instance and edit the inbound the rules of cluster security with ec2 security for limited access.
 
 ### Install the kafta on EC2
+Go the [shell_script.sh](shell_script.sh)
 
